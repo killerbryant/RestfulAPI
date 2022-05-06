@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4e65812-3351-4381-8310-badcd84947a0": {
+      "ProjectGuid": "f4e65812-3351-4381-8310-badcd84947a0",
+      "DisplayName": "RestfulAPI",
+      "ColorIndex": 0
+    },
+    "41af43fd-127f-45ba-8c88-b9269d8cdcd9": {
+      "ProjectGuid": "41af43fd-127f-45ba-8c88-b9269d8cdcd9",
+      "DisplayName": "RestfulAPI.Service",
+      "ColorIndex": 1
+    },
+    "f60b55e6-72dd-4f4d-a6cc-5d5dde4d6f8d": {
+      "ProjectGuid": "f60b55e6-72dd-4f4d-a6cc-5d5dde4d6f8d",
+      "DisplayName": "RestfulAPI.Repository",
+      "ColorIndex": 2
+    },
+    "0ee4e3de-3d7c-48f9-8883-0a67df1c4d15": {
+      "ProjectGuid": "0ee4e3de-3d7c-48f9-8883-0a67df1c4d15",
+      "DisplayName": "RestfulAPI.Model",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

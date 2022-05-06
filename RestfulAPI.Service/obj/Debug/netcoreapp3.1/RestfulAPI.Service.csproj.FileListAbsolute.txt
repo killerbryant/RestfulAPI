@@ -1,0 +1,15 @@
+D:\Source\RestfulAPI\RestfulAPI.Service\bin\Debug\netcoreapp3.1\RestfulAPI.Service.deps.json
+D:\Source\RestfulAPI\RestfulAPI.Service\bin\Debug\netcoreapp3.1\RestfulAPI.Service.dll
+D:\Source\RestfulAPI\RestfulAPI.Service\bin\Debug\netcoreapp3.1\RestfulAPI.Service.pdb
+D:\Source\RestfulAPI\RestfulAPI.Service\bin\Debug\netcoreapp3.1\RestfulAPI.Model.dll
+D:\Source\RestfulAPI\RestfulAPI.Service\bin\Debug\netcoreapp3.1\RestfulAPI.Repository.dll
+D:\Source\RestfulAPI\RestfulAPI.Service\bin\Debug\netcoreapp3.1\RestfulAPI.Repository.pdb
+D:\Source\RestfulAPI\RestfulAPI.Service\bin\Debug\netcoreapp3.1\RestfulAPI.Model.pdb
+D:\Source\RestfulAPI\RestfulAPI.Service\obj\Debug\netcoreapp3.1\RestfulAPI.Service.csproj.AssemblyReference.cache
+D:\Source\RestfulAPI\RestfulAPI.Service\obj\Debug\netcoreapp3.1\RestfulAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\RestfulAPI\RestfulAPI.Service\obj\Debug\netcoreapp3.1\RestfulAPI.Service.AssemblyInfoInputs.cache
+D:\Source\RestfulAPI\RestfulAPI.Service\obj\Debug\netcoreapp3.1\RestfulAPI.Service.AssemblyInfo.cs
+D:\Source\RestfulAPI\RestfulAPI.Service\obj\Debug\netcoreapp3.1\RestfulAPI.Service.csproj.CoreCompileInputs.cache
+D:\Source\RestfulAPI\RestfulAPI.Service\obj\Debug\netcoreapp3.1\RestfulAPI.Service.csproj.CopyComplete
+D:\Source\RestfulAPI\RestfulAPI.Service\obj\Debug\netcoreapp3.1\RestfulAPI.Service.dll
+D:\Source\RestfulAPI\RestfulAPI.Service\obj\Debug\netcoreapp3.1\RestfulAPI.Service.pdb
